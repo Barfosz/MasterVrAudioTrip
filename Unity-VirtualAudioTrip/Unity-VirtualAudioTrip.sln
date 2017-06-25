@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity-VirtualAudioTrip.Plugins", "Unity-VirtualAudioTrip.Plugins.csproj", "{5AA4375E-9113-A996-0622-AB50212A88C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity-VirtualAudioTrip", "Unity-VirtualAudioTrip.csproj", "{D4D37935-C044-19EE-7D75-898B754C36EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity-VirtualAudioTrip.Editor.Plugins", "Unity-VirtualAudioTrip.Editor.Plugins.csproj", "{5EEBC7E7-8C39-5700-983B-03DCEBC47DF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity-VirtualAudioTrip.Editor", "Unity-VirtualAudioTrip.Editor.csproj", "{19561981-99B9-7DC9-5528-1C07B165B043}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AA4375E-9113-A996-0622-AB50212A88C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA4375E-9113-A996-0622-AB50212A88C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA4375E-9113-A996-0622-AB50212A88C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA4375E-9113-A996-0622-AB50212A88C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D37935-C044-19EE-7D75-898B754C36EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D37935-C044-19EE-7D75-898B754C36EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D37935-C044-19EE-7D75-898B754C36EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D37935-C044-19EE-7D75-898B754C36EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EEBC7E7-8C39-5700-983B-03DCEBC47DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EEBC7E7-8C39-5700-983B-03DCEBC47DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EEBC7E7-8C39-5700-983B-03DCEBC47DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EEBC7E7-8C39-5700-983B-03DCEBC47DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19561981-99B9-7DC9-5528-1C07B165B043}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19561981-99B9-7DC9-5528-1C07B165B043}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19561981-99B9-7DC9-5528-1C07B165B043}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19561981-99B9-7DC9-5528-1C07B165B043}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
