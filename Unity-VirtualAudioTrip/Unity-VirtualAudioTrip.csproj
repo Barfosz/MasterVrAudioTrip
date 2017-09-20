@@ -84,33 +84,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\SteamAudio\AudioEngine.cs" />
-    <Compile Include="Assets\SteamAudio\AudioEngineState.cs" />
-    <Compile Include="Assets\SteamAudio\Baker.cs" />
-    <Compile Include="Assets\SteamAudio\Common.cs" />
-    <Compile Include="Assets\SteamAudio\ComponentCache.cs" />
-    <Compile Include="Assets\SteamAudio\ComputeDevice.cs" />
-    <Compile Include="Assets\SteamAudio\Core.cs" />
-    <Compile Include="Assets\SteamAudio\Environment.cs" />
-    <Compile Include="Assets\SteamAudio\GameEngineState.cs" />
-    <Compile Include="Assets\SteamAudio\ManagerData.cs" />
-    <Compile Include="Assets\SteamAudio\MaterialPreset.cs" />
-    <Compile Include="Assets\SteamAudio\MaterialPresetList.cs" />
-    <Compile Include="Assets\SteamAudio\MaterialValue.cs" />
-    <Compile Include="Assets\SteamAudio\ProbeManager.cs" />
-    <Compile Include="Assets\SteamAudio\Scene.cs" />
-    <Compile Include="Assets\SteamAudio\SimulationSettingsPreset.cs" />
-    <Compile Include="Assets\SteamAudio\SimulationSettingsPresetList.cs" />
-    <Compile Include="Assets\SteamAudio\SimulationSettingsValue.cs" />
-    <Compile Include="Assets\SteamAudio\SteamAudioBakedStaticListenerNode.cs" />
-    <Compile Include="Assets\SteamAudio\SteamAudioCustomSettings.cs" />
-    <Compile Include="Assets\SteamAudio\SteamAudioCustomSpeakerLayout.cs" />
-    <Compile Include="Assets\SteamAudio\SteamAudioGeometry.cs" />
-    <Compile Include="Assets\SteamAudio\SteamAudioListener.cs" />
-    <Compile Include="Assets\SteamAudio\SteamAudioManager.cs" />
-    <Compile Include="Assets\SteamAudio\SteamAudioMaterial.cs" />
-    <Compile Include="Assets\SteamAudio\SteamAudioProbeBox.cs" />
-    <Compile Include="Assets\SteamAudio\SteamAudioSource.cs" />
+    <Compile Include="Assets\Movement.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />

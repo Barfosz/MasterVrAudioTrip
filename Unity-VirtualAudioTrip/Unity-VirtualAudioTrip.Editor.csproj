@@ -134,20 +134,6 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\SteamAudio\Editor\Build.cs" />
-    <Compile Include="Assets\SteamAudio\Editor\MaterialValueDrawer.cs" />
-    <Compile Include="Assets\SteamAudio\Editor\SimulationSettingsValueDrawer.cs" />
-    <Compile Include="Assets\SteamAudio\Editor\SteamAudioBakedStaticListenerNodeInspector.cs" />
-    <Compile Include="Assets\SteamAudio\Editor\SteamAudioCustomSettingsInspector.cs" />
-    <Compile Include="Assets\SteamAudio\Editor\SteamAudioGeometryInspector.cs" />
-    <Compile Include="Assets\SteamAudio\Editor\SteamAudioListenerInspector.cs" />
-    <Compile Include="Assets\SteamAudio\Editor\SteamAudioManagerInspector.cs" />
-    <Compile Include="Assets\SteamAudio\Editor\SteamAudioMaterialInspector.cs" />
-    <Compile Include="Assets\SteamAudio\Editor\SteamAudioMixerReturnGUI.cs" />
-    <Compile Include="Assets\SteamAudio\Editor\SteamAudioProbeBoxInspector.cs" />
-    <Compile Include="Assets\SteamAudio\Editor\SteamAudioReverbGUI.cs" />
-    <Compile Include="Assets\SteamAudio\Editor\SteamAudioSourceInspector.cs" />
-    <Compile Include="Assets\SteamAudio\Editor\SteamAudioWindow.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_Editor.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_Preferences.cs" />
     <Compile Include="Assets\SteamVR\Editor\SteamVR_RenderModelEditor.cs" />
